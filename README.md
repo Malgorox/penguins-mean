@@ -1,0 +1,1 @@
+Skrypt wczytuje dataset, następnie bierze średnią dla body_mass_g i flipper_length_mm i przechowuje to w zmiennej "średnie". Po tym wynik zmiennej "średnie" zapisujemy w pliku wynik.csv.
